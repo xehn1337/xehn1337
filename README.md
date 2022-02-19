@@ -1,0 +1,2 @@
+- 👋 Hi, I’m xehn1337
+- 🌱 I’m currently learning C++, C#

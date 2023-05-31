@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm xehn1337</h1>
 <h3 align="center">Security Software Engineer from Germany!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xehn1337&label=Profile%20views&color=0e75b6&style=flat" alt="xehn1337" /> </p>
-
 - 🔭 I’m currently working at **100UP**
 
 - 🌱 I’m currently learning **C, C#, C++**

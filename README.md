@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm xehn1337</h1>
 <h3 align="center">Security Software Engineer from Germany!</h3>
 
-- 🔭 I’m currently working at **100UP**
-
 - 🌱 I’m currently learning **C++**
 
 - 👨‍💻 My Website [https://yamatos.cc](https://yamatos.cc)
